@@ -15,7 +15,7 @@ Welcome to the **TruthSpec Atlas**—a living documentation of QuantumChain’s 
 
 Explore the behavioral contracts of each subsystem:
 
-- [meta_TruthSpecEmergencyHaltProtocol.md](meta_ThruthSpecEmergencyHaltProtocol.md) — Halt triggers and systemic quarantine logic  
+- [meta_TruthSpecEmergencyHaltProtocol.md](./meta_ThruthSpecEmergencyHaltProtocol.md) — Halt triggers and systemic quarantine logic  
 - [meta_TruthSpecRotationEngine.md](./meta_TruthSpecRotationEngine.md) — Entropy-weighted validator fairness  
 - [meta_TruthSpecGovernanceSync.md](./meta_TruthSpecGovernanceSync.md) — Mutation scheduling and quorum enforcement  
 - [meta_TruthSpecTelemetryMesh.md](./meta_TruthSpecTelemetryMesh.md) — Peer scoring and routing suppression  
@@ -23,7 +23,8 @@ Explore the behavioral contracts of each subsystem:
 - [meta_TruthSpecHeartbeatOrchestration.md](./meta_TruthSpecHeartbeatOrchestration.md) — Validator liveness and entropy rhythm  
 - [meta_TruthSpecSlashingImmunity.md](./meta_TruthSpecSlashingImmunity.md) — Contagion containment and validator quarantine  
 - [meta_TruthSpecEntropyPersonality.md](./meta_TruthSpecEntropyPersonality.md) — Contextual happiness and entropy autonomy  
-- [meta_TruthSpecEntropyNegotiationProtocol.md](./meta_TruthSpecEntropyNegotiationProtocol.md) — Treaty exchange between subsystems and entropy  
+- [meta_TruthSpecEntropyNegotiationProtocol.md](./meta_TruthSpecEntropyNegotiationProtocol.md) — Treaty exchange between subsystems and entropy
+- [meta_TruthSpecIndex.md](./meta_TruthSpecIndex.md)
 
 ---
 
