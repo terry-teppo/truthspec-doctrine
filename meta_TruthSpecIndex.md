@@ -37,3 +37,4 @@ TruthSpecs are not static documentation—they are **living behavioral contracts
 - Fingerprints updated on stable deployments
 - Governance proposals must reference affected TruthSpecs
 
+Back to viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
