@@ -67,8 +67,5 @@ It’s also the antidote to stale Swagger pages and overconfident wikis. You see
 
 ash its current runtime config, entropy state, and telemetry snapshot, then expose it via an internal /status/truthspec endpoint. Let’s turn runtime identity into a first-class citizen.
 
-ash its current runtime config, entropy state, and telemetry snapshot, then expose it via an internal /status/truthspec endpoint. Let’s turn runtime identity into a first-class citizen.
-
-## chat : end : about the subject
-
+Back to viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
 Back to viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
