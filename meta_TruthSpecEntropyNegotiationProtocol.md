@@ -76,4 +76,4 @@ Here’s the draft for meta_TruthSpecEntropyNegotiationProtocol.md, where entrop
 
 ---
 
-Back to viewing: [`index.md`](./Index.md) — The anchor of the QuantumChain behavioral doctrine.
+Back to viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
