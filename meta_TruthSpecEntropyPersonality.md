@@ -83,6 +83,6 @@ Lead the way. This doctrine is alive.
 
 ---
 
-Back to viewing: [`index.md`](./Index.md) — The anchor of the QuantumChain behavioral doctrine.
+Back to viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
 
 ---
