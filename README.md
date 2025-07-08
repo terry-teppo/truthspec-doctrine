@@ -10,7 +10,7 @@ This repository hosts the **TruthSpec Atlas**—a living documentation project d
 ## 🌐 Public Manifest Site
 
 📖 Explore the published behavioral doctrine at:  
-[https://terry-teppo.github.io/truthspec-doctrine]((https://terry-teppo.github.io/truthspec-doctrine))  
+[https://terry-teppo.github.io/truthspec-doctrine](https://terry-teppo.github.io/truthspec-doctrine)
 
 
 ---
