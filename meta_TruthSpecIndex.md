@@ -8,15 +8,23 @@ This index links all behavioral manifests across QuantumChain’s architecture. 
 
 | Subsystem                      | Manifest Filename                             | Description                                      |
 |-------------------------------|-----------------------------------------------|--------------------------------------------------|
-| Emergency Halt Protocol       | [`meta_TruthSpecEmergencyHaltProtocol.md`](./meta_TruthSpecEmergencyHaltProtocol.md)      | Defines halt triggers and behavioral guarantees  |
-| Validator Rotation Engine     | [`meta_TruthSpecRotationEngine.md`](./meta_TruthSpecRotationEngine.md)                   | Entropy-based fairness and rotation logic        |
-| Governance Sync Layer         | [`meta_TruthSpecGovernanceSync.md`](./meta_TruthSpecGovernanceSync.md)                   | Mutation scheduling and quorum enforcement       |
-| Telemetry Mesh                | [`meta_TruthSpecTelemetryMesh.md`](./meta_TruthSpecTelemetryMesh.md)                     | Peer scoring and routing fairness                |
-| Consensus Mode Switcher       | [`meta_TruthSpecConsensusModes.md`](./meta_TruthSpecConsensusModes.md)                   | Adaptive consensus orchestration                 |
-| Heartbeat Orchestration       | [`meta_TruthSpecHeartbeatOrchestration.md`](./meta_TruthSpecHeartbeatOrchestration.md)   | Validator liveness and entropy rhythm            |
-| Slashing Immunity Protocol    | [`meta_TruthSpecSlashingImmunity.md`](./meta_TruthSpecSlashingImmunity.md)               | Contagion containment and validator quarantine   |
-| Entropy Personality Engine    | [`meta_TruthSpecEntropyPersonality.md`](./meta_TruthSpecEntropyPersonality.md)           | Contextual happiness and entropy autonomy        |
-| Entropy Negotiation Protocol  | [`meta_TruthSpecEntropyNegotiationProtocol.md`](./meta_TruthSpecEntropyNegotiationProtocol.md) | Treaty exchange between subsystems and entropy   |
+| 🧩 QuantumChain Manifest        | [`meta_TruthSpec.md`](./meta_TruthSpec.md) | Defines the behavioral anchor of TruthSpec—an immutable sema... |
+| 🧩 Consensus Modes              | [`meta_TruthSpecConsensusModes.md`](./meta_TruthSpecConsensusModes.md) | Defines the behavioral mechanics through which subsystems ag... |
+| 🧩 Emergency Halt Protocol      | [`meta_TruthSpecEmergencyHaltProtocol.md`](./meta_TruthSpecEmergencyHaltProtocol.md) | Defines halt triggers, contagion safeguards, and system-wide... |
+| 🧩 Entropy Negotiation Protocol | [`meta_TruthSpecEntropyNegotiationProtocol.md`](./meta_TruthSpecEntropyNegotiationProtocol.md) | Outlines the procedural architecture through which entropy i... |
+| 🧩 Entropy Personality          | [`meta_TruthSpecEntropyPersonality.md`](./meta_TruthSpecEntropyPersonality.md) | Positions entropy as a source of joy and creative mutability... |
+| 🧩 Error Integrity              | [`meta_TruthSpecErrorIntegrity.md`](./meta_TruthSpecErrorIntegrity.md) | Declares failure as a semantic confession and validates trus... |
+| 🧩 Fingerprint Expression       | [`meta_TruthSpecFingerprintExpression.md`](./meta_TruthSpecFingerprintExpression.md) | Defines runtime fingerprints as behavioral echoes that verif... |
+| 🧩 Functional Conscience        | [`meta_TruthSpecFunctionalConscience.md`](./meta_TruthSpecFunctionalConscience.md) | Defines introspective behavior and embedded error awareness ... |
+| 🧩 Governance Sync Layer        | [`meta_TruthSpecGovernanceSync.md`](./meta_TruthSpecGovernanceSync.md) | Handles mutation scheduling, quorum enforcement, and systemi... |
+| 🧩 Happiness Threshold          | [`meta_TruthSpecHappinessThreshold.md`](./meta_TruthSpecHappinessThreshold.md) | Declares the emotional stability of subsystems and their acc... |
+| 🧩 Heartbeat Orchestration      | [`meta_TruthSpecHeartbeatOrchestration.md`](./meta_TruthSpecHeartbeatOrchestration.md) | Establishes the systemic tempo that governs behavioral caden... |
+| 🧩 Mutation Veto                | [`meta_TruthSpecMutationVeto.md`](./meta_TruthSpecMutationVeto.md) | Defines the conditions under which mutation is denied to pre... |
+| 🧩 Rotation Engine              | [`meta_TruthSpecRotationEngine.md`](./meta_TruthSpecRotationEngine.md) | Defines the behavioral mechanism by which subsystems rotate ... |
+| 🧩 Security Boundary            | [`meta_TruthSpecSecurityBoundary.md`](./meta_TruthSpecSecurityBoundary.md) | Establishes the perimeter within which behavior is permitted... |
+| 🧩 Slashing Immunity            | [`meta_TruthSpecSlashingImmunity.md`](./meta_TruthSpecSlashingImmunity.md) | Defines the conditions under which subsystems are protected ... |
+| 🧩 Subsystem Treaty             | [`meta_TruthSpecSubsystemTreaty.md`](./meta_TruthSpecSubsystemTreaty.md) | Outlines cross-subsystem behavioral agreements and the philo... |
+| 🧩 Telemetry Mesh               | [`meta_TruthSpecTelemetryMesh.md`](./meta_TruthSpecTelemetryMesh.md) | Defines the semantic infrastructure for collecting, routing,... |
 
 ---
 

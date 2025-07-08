@@ -1,9 +1,7 @@
 ---
 title: "Emergency Halt Protocol"
 theme: "Security & Immunity"
-description: |
-  Defines halt triggers, contagion safeguards, and system-wide behavioral guarantees
-  for validator coordination during high-risk conditions.
+description: "Defines halt triggers, contagion safeguards, and system-wide behavioral guarantees for validator coordination during high-risk conditions."
 contracts:
   - halts: "Heartbeat Orchestration"
   - shields: "Validator Rotation Engine"
