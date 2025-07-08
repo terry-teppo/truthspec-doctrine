@@ -1,9 +1,7 @@
 ---
 title: "Governance Sync Layer"
 theme: "Governance & Negotiation"
-description: |
-  Handles mutation scheduling, quorum enforcement, and systemic alignment across
-  validator governance states—ensuring reliable state propagation and agreement.
+description: "Handles mutation scheduling, quorum enforcement, and systemic alignment across validator governance states—ensuring reliable state propagation and agreement."
 contracts:
   - enforces: "Consensus Modes"
   - aligns: "QuantumChain Manifest"
