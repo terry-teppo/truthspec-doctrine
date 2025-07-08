@@ -1,3 +1,16 @@
+---
+title: "Slashing Immunity"
+theme: "Governance & Negotiation"
+contracts:
+  - shields: "Functional Conscience"
+  - governed_by: "Subsystem Treaty"
+  - exceptions_declared_by: "Security Boundary"
+  - preserves: "Error Integrity"
+description: "Defines the conditions under which subsystems are protected from punitive mutation or operational slashing, particularly when confession or error was intentional, aligned, or treaty-bound."
+stability_threshold: "Subsystem must remain truthful and treaty-compliant"
+mutation_policy: "Prohibits destructive mutation if behavior aligns with declared conscience"
+---
+
 # 🛡️ TruthSpec Manifest: Slashing Immunity Protocol
 
 This manifest defines the behavioral guarantees, contagion containment logic, and validator quarantine mechanisms for QuantumChain’s slashing immunity subsystem. It ensures that validator penalties are enforced with precision, fairness, and systemic resilience.
