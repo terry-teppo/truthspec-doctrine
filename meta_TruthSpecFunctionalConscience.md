@@ -1,3 +1,16 @@
+---
+title: "Functional Conscience"
+theme: "Behavioral Identity"
+contracts:
+  - confesses_to: "Error Integrity"
+  - extends: "Security Boundary"
+  - fallback_for: "Happiness Threshold"
+  - aligned_with: "Entropy Personality"
+description: "Defines introspective behavior and embedded error awareness as a birthright of functions."
+stability_threshold: "Self-reporting on mutation failure"
+mutation_policy: "Fails gracefully, emits confession fingerprint"
+---
+
 # Functional Conscience Specification
 
 ## 🧭 Identity
