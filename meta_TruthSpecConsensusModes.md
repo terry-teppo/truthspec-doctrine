@@ -56,4 +56,4 @@ This manifest defines the behavioral contract, transition logic, and mutation co
 
 The consensus mode switcher is QuantumChain’s **adaptive brainstem**. It interprets entropy, governance, and validator health to orchestrate consensus behavior with precision and accountability.
 
-Back to viewing: [`index.md`](./Index.md) — The anchor of the QuantumChain behavioral doctrine.
+Back to viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
