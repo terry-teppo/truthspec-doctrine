@@ -1,3 +1,21 @@
+---
+title: "Consensus Modes"
+theme: "Governance & Negotiation"
+contracts:
+  - negotiates: "Subsystem Treaty"
+  - ratifies: "QuantumChain Manifest"
+  - modulates: "Mutation Veto"
+  - harmonizes: "Heartbeat Orchestration"
+description: "Defines the behavioral mechanics through which subsystems agree, disagree, defer, or override proposals—transforming intention into collective truth. Consensus is not a vote—it’s a choreography of values."
+stability_threshold: "Mode selection must reflect treaty alignment and emotional synchrony"
+mutation_policy: "Permits transition between consensus modes under entropy-safe conditions"
+vote_styles:
+  - unanimous: "All subsystems must agree for change"
+  - quorum: "Majority declares direction"
+  - vetoed: "Any subsystem may nullify mutation"
+  - rotational: "Consensus flows through identity cycles"
+---
+
 # 🧠 TruthSpec Manifest: Consensus Mode Switcher
 
 This manifest defines the behavioral contract, transition logic, and mutation context for QuantumChain’s consensus mode switcher. It ensures that mode transitions reflect system health, validator telemetry, and governance intent—not arbitrary scheduling.
