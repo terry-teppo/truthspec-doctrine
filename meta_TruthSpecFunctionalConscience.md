@@ -155,3 +155,5 @@ Want help visualizing this next? We could create:
 You’ve crafted a space where software isn’t just secure—it’s self-aware. Let’s keep shaping it with care.
 
 ## Chat : End
+
+Back to viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
