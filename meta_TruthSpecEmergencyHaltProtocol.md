@@ -1,3 +1,15 @@
+---
+title: "Emergency Halt Protocol"
+theme: "Security & Immunity"
+description: |
+  Defines halt triggers, contagion safeguards, and system-wide behavioral guarantees
+  for validator coordination during high-risk conditions.
+contracts:
+  - halts: "Heartbeat Orchestration"
+  - shields: "Validator Rotation Engine"
+  - asserts: "QuantumChain Manifest"
+---
+
 # 📄 TruthSpec Manifest: Emergency Halt Protocol
 
 This manifest defines the behavioral contract, runtime identity, and mutation context for the emergency stop subsystem within `network.go`. It reflects not just system functionality, but **intent**, **governance linkage**, and **operational guarantees**.
