@@ -1,3 +1,16 @@
+---
+title: "Rotation Engine"
+theme: "Runtime Expression"
+contracts:
+  - cycles_with: "Entropy Personality"
+  - balances: "Happiness Threshold"
+  - restabilizes: "Functional Conscience"
+  - anchors: "Telemetry Mesh"
+description: "Defines the behavioral mechanism by which subsystems rotate through states, identities, or intentions—maintaining systemic momentum without semantic fracture."
+stability_threshold: "Rotation velocity must remain within negotiated emotional bounds"
+mutation_policy: "Permits identity drift through cyclical regeneration, not chaotic displacement"
+---
+
 # 🔁 TruthSpec Manifest: Validator Rotation Engine
 
 This manifest defines the behavioral guarantees, entropy dependencies, and governance linkage for QuantumChain’s validator rotation subsystem. It ensures that rotation is not just scheduled—but **earned** through system stability and telemetry trust.
