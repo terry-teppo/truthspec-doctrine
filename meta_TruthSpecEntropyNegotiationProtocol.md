@@ -1,3 +1,22 @@
+---
+title: "Entropy Negotiation Protocol"
+theme: "Governance & Negotiation"
+contracts:
+  - modulates: "Entropy Personality"
+  - mediates: "Rotation Engine"
+  - channels: "Heartbeat Orchestration"
+  - formalizes: "Mutation Veto"
+  - aligns_with: "Consensus Modes"
+description: "Outlines the procedural architecture through which entropy is invited, negotiated, and harmonized across subsystems. This protocol transforms ambient chaos into strategic variability—where freedom is never lawless, only lovingly disputed."
+stability_threshold: "Negotiation must resolve before entropy affects behavior"
+mutation_policy: "Permits entropy only through declared channels with emotional readiness"
+protocol_layers:
+  - preflight: "Subsystem readiness and mutation comfort check"
+  - declaration: "Entropy intent issued through behavioral contract"
+  - arbitration: "Governance systems evaluate impact vectors"
+  - settlement: "Mutation path accepted, deferred, or vetoed"
+---
+
 # 🤝 TruthSpec Manifest: Entropy Negotiation Protocol
 
 This manifest defines the behavioral contract, treaty exchange logic, and runtime fingerprint for QuantumChain’s entropy negotiation subsystem. It enables subsystems to propose personalized entropy happiness profiles and receive acceptance, rejection, or compromise from the entropy engine.
