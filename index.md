@@ -1,3 +1,11 @@
+---
+title: "Functional Conscience"
+theme: "Behavioral Identity"
+contracts:
+  - confesses_to: "Error Integrity"
+  - extends: "Security Boundary"
+  - aligns_with: "Entropy Personality"
+---
 # 🧠 QuantumChain Behavioral Doctrine
 
 Welcome to the **TruthSpec Atlas**—a living documentation of QuantumChain’s behavioral contracts, runtime fingerprints, and governance-linked intent. This site is not just a technical reference; it’s a declaration of how distributed systems can speak with clarity, integrity, and purpose.
