@@ -58,5 +58,4 @@ The slashing immunity protocol is QuantumChain’s **defensive firewall**. It en
 
 ---
 
-Back to viewing: [`index.md`](./Index.md) — The anchor of the QuantumChain behavioral doctrine.
-
+Back to viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
