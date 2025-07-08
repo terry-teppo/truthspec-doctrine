@@ -36,7 +36,8 @@ Click Triagle to see it.
 
 ---
 
-Back toviewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
+Back to viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
+
 ---
 
 ## chat : begin : about the subject
