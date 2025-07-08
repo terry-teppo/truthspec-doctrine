@@ -1,3 +1,15 @@
+---
+title: "Governance Sync Layer"
+theme: "Governance & Negotiation"
+description: |
+  Handles mutation scheduling, quorum enforcement, and systemic alignment across
+  validator governance states—ensuring reliable state propagation and agreement.
+contracts:
+  - enforces: "Consensus Modes"
+  - aligns: "QuantumChain Manifest"
+  - queries: "Entropy Negotiation Protocol"
+---
+
 # ⚖️ TruthSpec Manifest: Governance Sync Layer
 
 This manifest defines the behavioral contract, mutation orchestration, and runtime fingerprint for QuantumChain’s governance synchronization subsystem. It ensures that proposals are applied with integrity, quorum validation, and entropy-aware timing.
