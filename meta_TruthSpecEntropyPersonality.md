@@ -1,3 +1,15 @@
+---
+title: "Entropy Personality"
+theme: "Behavioral Identity"
+contracts:
+  - radiates_to: "Happiness Threshold"
+  - inspired: "Functional Conscience"
+  - contradicted_by: "Mutation Veto"
+description: "Positions entropy as a source of joy and creative mutability, redefining chaos as systemic delight."
+stability_threshold: "Free mutation within declared identity"
+mutation_policy: "Embraces context-aware change as growth"
+---
+
 # 🌪️ TruthSpec Manifest: Entropy Personality Engine
 
 This manifest defines the behavioral contract, contextual happiness model, and runtime fingerprint for QuantumChain’s entropy subsystem. It reframes entropy from a rigid stability score into a **self-defined personality**, allowing subsystems to calibrate their own thresholds for joy, volatility, and trust.
