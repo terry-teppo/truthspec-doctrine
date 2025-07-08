@@ -16,7 +16,7 @@ Welcome to the **TruthSpec Atlas**—a living documentation of QuantumChain’s 
 ##     What started it all. 
 ## 🧠 Foundational Manifesto
 
-- [`Foundational Manifesto`](./meta_ThruthSpec.md) — The original declaration of behavioral integrity, runtime-bound documentation, and semantic contracts. All other TruthSpecs derive their purpose from this philosophical root.
+- [`Foundational Manifesto`](./meta_TruthSpec.md) — The original declaration of behavioral integrity, runtime-bound documentation, and semantic contracts. All other TruthSpecs derive their purpose from this philosophical root.
 - 
 ---
 
@@ -24,7 +24,7 @@ Welcome to the **TruthSpec Atlas**—a living documentation of QuantumChain’s 
 
 Explore the behavioral contracts of each subsystem:
 
-- [meta_TruthSpecEmergencyHaltProtocol.md](./meta_ThruthSpecEmergencyHaltProtocol.md) — Halt triggers and systemic quarantine logic  
+- [meta_TruthSpecEmergencyHaltProtocol.md](./meta_TruthSpecEmergencyHaltProtocol.md) — Halt triggers and systemic quarantine logic  
 - [meta_TruthSpecRotationEngine.md](./meta_TruthSpecRotationEngine.md) — Entropy-weighted validator fairness  
 - [meta_TruthSpecGovernanceSync.md](./meta_TruthSpecGovernanceSync.md) — Mutation scheduling and quorum enforcement  
 - [meta_TruthSpecTelemetryMesh.md](./meta_TruthSpecTelemetryMesh.md) — Peer scoring and routing suppression  
