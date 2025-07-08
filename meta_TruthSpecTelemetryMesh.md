@@ -57,4 +57,4 @@ This manifest defines the behavioral guarantees, peer scoring logic, and broadca
 The telemetry mesh is QuantumChain’s **routing conscience**. It enforces fairness, suppresses noise, and adapts to validator health in real time. This TruthSpec ensures that every message path reflects system trust.
 
 
-Back to viewing: [`index.md`](./Index.md) — The anchor of the QuantumChain behavioral doctrine.
+Back to viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
