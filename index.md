@@ -3,7 +3,8 @@
 Welcome to the **TruthSpec Atlas**—a living documentation of QuantumChain’s behavioral contracts, runtime fingerprints, and governance-linked intent. This site is not just a technical reference; it’s a declaration of how distributed systems can speak with clarity, integrity, and purpose.
 
 ---
-  
+
+
 ##     What started it all. 
 ## 🧠 Foundational Manifesto
 
@@ -58,6 +59,7 @@ QuantumChain doesn’t just run—it **declares**. Every subsystem speaks in beh
 ---
 
 > 🧭 This page is its own compass. The origin, the anchor, the index.
+
 
 You are viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
 
