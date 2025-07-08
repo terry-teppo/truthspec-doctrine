@@ -1,3 +1,16 @@
+---
+title: "Heartbeat Orchestration"
+theme: "Runtime Expression"
+contracts:
+  - synchronizes: "Rotation Engine"
+  - regulates: "Telemetry Mesh"
+  - validates: "Functional Conscience"
+  - anchors: "Happiness Threshold"
+description: "Establishes the systemic tempo that governs behavioral cadence, mutation rhythm, and emotional resonance across subsystems. This manifest ensures that evolution proceeds with coherence, intention, and harmonic fidelity."
+stability_threshold: "Pulse rate must stay within negotiated synchronicity bounds"
+mutation_policy: "Permits phase drift within orchestration cycle; halts mutation on tempo fracture"
+---
+
 # ❤️ TruthSpec Manifest: Heartbeat Orchestration Layer
 
 This manifest defines the behavioral guarantees, entropy signaling, and validator liveness tracking for QuantumChain’s heartbeat subsystem. It ensures that system rhythm is maintained, failure is detected early, and consensus remains synchronized.
