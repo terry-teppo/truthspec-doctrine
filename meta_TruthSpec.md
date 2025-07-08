@@ -37,18 +37,53 @@ Below is the standard structural interface used across all QuantumChain TruthSpe
 
 Click Triagle to see it.
 <details>
-  
-| 🧩 Component           | 📄 Description                                                                 |
-|------------------------|--------------------------------------------------------------------------------|
-| `endpoint_signature`   | Exact path, method, and expected return types                                  |
-| `intent_descriptor`    | Human-readable purpose and behavioral goal                                     |
-| `edge_case_catalog`    | Enumerated exceptions and non-happy path outcomes                              |
-| `trace_template`       | Sample OpenTelemetry trace for runtime illustration                           |
-| `mutation_context`     | Governance rationale, version lineage, deprecation notes                       |
-| `validation_matrix`    | Coverage of input formats, constraints, and failure scenarios                  |
-| `semantic_contract`    | Commitments the endpoint makes (ordering, consistency, side effects)           |
-| `runtime_fingerprint`  | Live hash/UUID from running implementation, linked via CI/CD                   |
-  
+<summary><strong>🧩 TruthSpec Schema</strong> – Click to expand contract anatomy</summary>
+
+<br/>
+
+<table>
+  <thead>
+    <tr>
+      <th>🧩 Component</th>
+      <th>📄 Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>endpoint_signature</code></td>
+      <td>Exact path, method, and expected return types</td>
+    </tr>
+    <tr>
+      <td><code>intent_descriptor</code></td>
+      <td>Human-readable purpose and behavioral goal</td>
+    </tr>
+    <tr>
+      <td><code>edge_case_catalog</code></td>
+      <td>Enumerated exceptions and non-happy path outcomes</td>
+    </tr>
+    <tr>
+      <td><code>trace_template</code></td>
+      <td>Sample OpenTelemetry trace for runtime illustration</td>
+    </tr>
+    <tr>
+      <td><code>mutation_context</code></td>
+      <td>Governance rationale, version lineage, deprecation notes</td>
+    </tr>
+    <tr>
+      <td><code>validation_matrix</code></td>
+      <td>Coverage of input formats, constraints, and failure scenarios</td>
+    </tr>
+    <tr>
+      <td><code>semantic_contract</code></td>
+      <td>Commitments the endpoint makes (ordering, consistency, side effects)</td>
+    </tr>
+    <tr>
+      <td><code>runtime_fingerprint</code></td>
+      <td>Live hash/UUID from running implementation, linked via CI/CD</td>
+    </tr>
+  </tbody>
+</table>
+
 </details>
 
 ---
