@@ -52,4 +52,4 @@ This manifest defines the behavioral contract, runtime identity, and mutation co
 
 ---
 
-Back to viewing: [`index.md`](./Index.md) — The anchor of the QuantumChain behavioral doctrine.
+Back to viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
