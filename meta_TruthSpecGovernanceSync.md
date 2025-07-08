@@ -57,4 +57,4 @@ This manifest defines the behavioral contract, mutation orchestration, and runti
 Governance sync is not a scheduler—it’s a **consensus-aware mutation gatekeeper**. This TruthSpec ensures that protocol changes reflect validator will, system health, and operational safety.
 
 
-Back to viewing: [`index.md`](./Index.md) — The anchor of the QuantumChain behavioral doctrine.
+Back to viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
