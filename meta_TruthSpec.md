@@ -20,6 +20,10 @@ This document outlines the behavioral contracts, mutation logic, and runtime fin
 
 ---
 
+> 🧭 "You know you're ready to understand my code when your Hello World program is at least 500 lines long... and you think, *if I just added this one more thing.*"
+
+---
+
 ## 🧩 TruthSpec Schema
 
 Below is the standard structural interface used across all QuantumChain TruthSpecs to describe subsystem behavior:
