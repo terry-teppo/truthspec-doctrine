@@ -25,6 +25,10 @@ This document outlines the behavioral contracts, mutation logic, and runtime fin
 > 🧩 Doctrine Axiom:  
 > A system object must declare only the properties, behaviors, and relationships necessary to fulfill its semantic contract. Nothing more, nothing hidden.
 
+> 🧩 Doctrine Anecdote:
+> Understanding emerged when I realized that a query must speak the truth of its schema.
+> `x.table = y.table` only works if both sides know each other.
+
 ---
 
 ## 🧩 TruthSpec Schema
