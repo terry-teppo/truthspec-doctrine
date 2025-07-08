@@ -57,4 +57,4 @@ This manifest defines the behavioral guarantees, entropy dependencies, and gover
 Rotation is not a timer—it’s a **trust mechanism**. This TruthSpec ensures that validator transitions reflect system health, fairness, and governance alignment.
 
 
-Back to viewing: [`index.md`](./Index.md) — The anchor of the QuantumChain behavioral doctrine.
+Back to viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
