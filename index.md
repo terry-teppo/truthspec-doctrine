@@ -58,5 +58,5 @@ QuantumChain doesn’t just run—it **declares**. Every subsystem speaks in beh
 
 > 🧭 This page is its own compass. The origin, the anchor, the index.
 
-You are viewing: [`index.md`](./Index.md) — The anchor of the QuantumChain behavioral doctrine.
+You are viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
 
