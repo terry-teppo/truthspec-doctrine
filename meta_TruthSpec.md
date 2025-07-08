@@ -1,3 +1,19 @@
+---
+title: "QuantumChain Manifest"
+theme: "Governance Core"
+contracts:
+  - anchors: "Heartbeat Orchestration"
+  - indexes: "Functional Conscience"
+  - reconciles: "Error Integrity"
+  - archives: "Mutation Veto"
+  - reflects: "Subsystem Treaty"
+description: "Defines the behavioral anchor of TruthSpec—an immutable semantic ledger where contracts are recorded, fingerprinted, and reconciled over time. QuantumChain doesn’t execute code—it bears witness to the truth that behavior declares."
+stability_threshold: "Must maintain causal thread across entropy cycles"
+mutation_policy: "Only admits mutation through signed behavioral treaty or rotational clearance"
+ledger_protocol: "Semantic fingerprint chain with confession journaling"
+node_identity: "Each subsystem is a declarative entity with votable intent"
+---
+
 # 🧠 TruthSpec Manifest for QuantumChain
 
 This document outlines the behavioral contracts, mutation logic, and runtime fingerprints for QuantumChain’s core modules. Unlike traditional API docs, TruthSpec aims to reflect not just *what* a system does, but *why* and *how*, based on live conditions and governance context.
