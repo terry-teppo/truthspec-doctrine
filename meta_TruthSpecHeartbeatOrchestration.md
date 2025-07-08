@@ -56,4 +56,4 @@ This manifest defines the behavioral guarantees, entropy signaling, and validato
 
 The heartbeat layer is QuantumChain’s **rhythmic conscience**. It ensures validators are alive, entropy is flowing, and consensus remains in sync. This TruthSpec guarantees that every beat reflects trust, timing, and system health.
 
-Back to viewing: [`index.md`](./Index.md) — The anchor of the QuantumChain behavioral doctrine.
+Back to viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
