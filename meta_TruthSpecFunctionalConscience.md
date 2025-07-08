@@ -37,3 +37,4 @@ A function without conscience cannot protect semantic fidelity. It may execute, 
 
 > _Behavior is valid when declared. Behavior is trusted when confessed._
 
+Back to viewing: [`index.md`](./index.md) — The anchor of the QuantumChain behavioral doctrine.
